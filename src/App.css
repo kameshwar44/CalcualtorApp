@@ -1,0 +1,42 @@
+
+.container{
+  width: 320px;
+  margin: 50px auto;
+  
+  
+  
+}
+#calc{
+  background-color: rgb(200, 200, 200);
+  padding: 7px;
+  font-size: 35px;
+  text-align: right;
+  width: 299px;
+  height: 45px;
+  border: 2px solid black;
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  
+}
+.btn{
+  background-color: rgb(58, 58, 167);
+  height: 77px;
+  width: 76px;
+  color: wheat;
+  font-size: 20px;
+  border: 2px solid black;
+  float: left;
+  margin: 2px;
+ 
+
+  border-radius: 15px;
+}
+
+.btn1{
+  width: 156px;margin: 2px;
+
+}
+
